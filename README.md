@@ -42,11 +42,11 @@ The tiles represented are
 *  
 **  
 
-*  
-***   
-*  
+*    
+***     
+*     
 
-Tiles can be picked up and flipped over. The cells must be connected side-to-side,
+Note: Tiles can be picked up and flipped over. The cells must be connected side-to-side,
 not on a corner. Think of them as rigid, flat pieces of colored plastic (since that
 is actually what they represent in the game).
 
